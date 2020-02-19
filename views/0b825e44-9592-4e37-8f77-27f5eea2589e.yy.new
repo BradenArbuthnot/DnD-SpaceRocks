@@ -1,0 +1,13 @@
+{
+    "id": "0b825e44-9592-4e37-8f77-27f5eea2589e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "0b825e44-9592-4e37-8f77-27f5eea2589e",
+    "children": [
+        "8b86534b-9046-48b4-af55-915cc8e38e07"
+    ],
+    "filterType": "GMFont",
+    "folderName": "fonts",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Fonts"
+}
